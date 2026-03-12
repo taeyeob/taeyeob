@@ -1,39 +1,31 @@
-```
-██╗  ██╗██╗███╗   ███╗    ████████╗ █████╗ ███████╗██╗   ██╗███████╗ ██████╗ ██████╗
-██║ ██╔╝██║████╗ ████║    ╚══██╔══╝██╔══██╗██╔════╝╚██╗ ██╔╝██╔════╝██╔═══██╗██╔══██╗
-█████╔╝ ██║██╔████╔██║       ██║   ███████║█████╗   ╚████╔╝ █████╗  ██║   ██║██████╔╝
-██╔═██╗ ██║██║╚██╔╝██║       ██║   ██╔══██║██╔══╝    ╚██╔╝  ██╔══╝  ██║   ██║██╔══██╗
-██║  ██╗██║██║ ╚═╝ ██║       ██║   ██║  ██║███████╗   ██║   ███████╗╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚═╝╚═╝     ╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═════╝
-```
-
 <div align="center">
 
-**Server Backend Engineer @ MAKESTAR** · Seoul, Korea
+# Kim Taeyeob
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeyeob-kim-684274112)
-[![Gmail](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hwj20215@gmail.com)
+**Server Backend Engineer @ MAKESTAR**
+
+Seoul, Korea
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeyeob-kim-684274112)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwj20215@gmail.com)
 
 </div>
 
----
+<br>
 
-```python
-class Me:
-    name     = "Kim Taeyeob"
-    role     = "Server Backend Engineer"
-    company  = "MAKESTAR (Jul 2024 ~)"
-    stack    = {
-        "backend"  : ["Python", "Django", "DRF", "Kotlin", "Java"],
-        "infra"    : ["AWS", "GCP"],
-        "database" : ["PostgreSQL", "Redis"],
-    }
-```
+## Tech Stack
 
----
+**Backend**
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taeyeob&theme=green-dark&hide_border=true&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120" width="90%" />
+**Infra & Database**
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
