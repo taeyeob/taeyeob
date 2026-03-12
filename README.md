@@ -1,10 +1,10 @@
 <div align="center">
 
-# Kim Taeyeob
+# Hi, I'm Taeyeob Kim
 
-**Server Backend Engineer @ MAKESTAR**
+Backend engineer focused on building simple and reliable systems.
 
-Seoul, Korea
+I design clean data models, optimize queries, and solve real-world problems without unnecessary complexity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeyeob-kim-684274112)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwj20215@gmail.com)
@@ -12,6 +12,13 @@ Seoul, Korea
 </div>
 
 <br>
+
+## What I Do
+
+- Build backend services and APIs at **MAKESTAR**
+- Design practical database schemas
+- Optimize queries and data access patterns
+- Improve reliability of production systems
 
 ## Tech Stack
 
@@ -29,3 +36,20 @@ Seoul, Korea
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+## Interests
+
+- Database design & query optimization
+- Backend architecture
+- Building practical systems for real services
+
+## Engineering Philosophy
+
+- Prefer simplicity over complexity
+- Avoid overengineering
+- Build systems that are easy to understand and maintain
+- Ship first, refine later
+
+---
+
+> Building simple and reliable backends.
